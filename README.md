@@ -1,9 +1,11 @@
 # Implementing-Cisco-Software-Defined-Wan-SD-WAN-for-your-Enterprise-and-Cloud
 
-![Cisco](https://img.shields.io/badge/Cisco-SD--WAN-blue?logo=cisco&logoColor=white) 
 
-[![EVE-NG](https://img.shields.io/badge/EVE--NG-purple?)](https://www.eve-ng.net/)
-
+<p align="center">
+  <a href="https://www.cisco.com/">
+    <img src="https://img.shields.io/badge/Cisco-SD--WAN-blue?logo=cisco&logoColor=white" alt="Cisco">
+  </a>
+</p>
 
 # 📘 Cisco SD-WAN - Pearson Course
 
