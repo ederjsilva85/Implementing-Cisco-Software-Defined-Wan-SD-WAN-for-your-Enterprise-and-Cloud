@@ -1,14 +1,23 @@
-Device and feature template structure overview
+# Device and feature template structure overview
 
-CLI template
+## CLI template
 
-Bulding system feature templates
+### To create:
 
-Bulding VPN feature templates
+### Ojective:
 
-Bulding VPN interface feature templates
+### Common Fields:
 
-Bulding other common interface feature templates
+### Example:
+
+
+## Bulding system feature templates
+
+## Bulding VPN feature templates
+
+## Bulding VPN interface feature templates
+
+## Bulding other common interface feature templates
 
 
 
