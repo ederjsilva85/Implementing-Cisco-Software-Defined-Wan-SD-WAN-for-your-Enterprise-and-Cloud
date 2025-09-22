@@ -24,9 +24,13 @@ Provide a centralized place with configuration files, diagrams, and practical ex
 ## 📂 Repository Structure
 
 ├── eve-ng-images/ # Configuration files (vEdge, vSmart, vBond, vManage, etc.)
+
 ├── lessons/ # Configuration files (vEdge, vSmart, vBond, vManage, etc.)
+
 ├── diagram/ # Topology files and diagrams
+
 ├── images/ # Screenshots, visual diagrams, and figures
+
 └── README.md # Main documentation
 
 
