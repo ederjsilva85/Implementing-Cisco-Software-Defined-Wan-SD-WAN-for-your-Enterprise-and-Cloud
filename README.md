@@ -31,7 +31,7 @@ Provide a centralized place with configuration files, diagrams, and practical ex
 
 ├── images/ # Screenshots, visual diagrams, and figures
 
-└── README.md # Main documentation
+├── README.md # Main documentation
 
 
 
